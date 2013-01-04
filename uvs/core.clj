@@ -1,4 +1,3 @@
-```clojure
 (ns uvs.core)
 
 (comment
@@ -190,4 +189,3 @@ False on failure.
     (print-report url)
     (println "\n___ waiting 5 seconds ___")
     (Thread/sleep 5000)))
-```
